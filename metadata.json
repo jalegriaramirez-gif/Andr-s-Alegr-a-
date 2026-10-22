@@ -1,0 +1,6 @@
+{
+  "name": "SENA Inducción Digital - Reglamento del Aprendiz",
+  "description": "Plataforma gamificada de inducción para aprendices del SENA con apropiación del Reglamento del Aprendiz (Acuerdo 0009 de 2024), retos interactivos, evaluación y certificación oficial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
